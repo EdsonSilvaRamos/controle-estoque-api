@@ -1,4 +1,4 @@
-# Controle deEstoque
+# Controle de Estoque
 
 ## Aplicação desenvolvida usando os conceitos de padrão de projeto Mediator
 
