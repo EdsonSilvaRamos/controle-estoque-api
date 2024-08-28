@@ -9,7 +9,8 @@ Foram utilizadas as tecnologias:
 - Entity Framework
 - Pomelo Entity Framework Core (persistência com banco de dados MySql)
 
-  ## Breves instruções de uso:
+## Breves instruções de uso:
+
 - Atualizar a string de conexão no arquivo appsettings
 - Restaurar os pacotes
  - No Visual Studio:
